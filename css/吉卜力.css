@@ -113,19 +113,19 @@ li{
   margin: 1vw 0 0 0;
 }
 .p_where_r{
-  color: rgb(129,81,26);
+  color: black;
   text-align: center;
-  margin: 0vw 0 0 0;
+  margin: 0vw 0 0 4vw;
   padding: 2px;
-  border: 3px solid rgb(129,81,26);
+  border: 3px solid black;
   border-radius : 10px;
 }
 .where_color{
-  color: rgb(129,81,26);
+  color: black;
   text-align: center;
-  margin: 0vw 0 0 0;
+  margin: 0vw 0 0 4vw;
   padding: 2px;
-  border: 3px solid rgb(129,81,26);
+  border: 3px solid black;
   border-radius : 10px;
   background-color: rgb(255,255,187);
 }
